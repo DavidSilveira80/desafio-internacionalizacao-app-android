@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">primeiroApp</string>
+    <string name="hello_android_kotlin">Android e Kotlin são demais!!!</string>
+</resources>
